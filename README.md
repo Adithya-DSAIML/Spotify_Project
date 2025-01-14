@@ -213,13 +213,16 @@ order by 2 desc;
 
 ## Findings
 
-**Total Rows**: The dataset contains a total of 20592 rows.
-**Unique Artists**: There are 2074 distinct artists represented in the dataset.
-**Albums**: The dataset includes 11853 unique albums with different album types such as singles, compilations, and albums.
-**Channels**: Tracks are associated with unique platforms such as Youtube and Spotify
-**Track Popularity**: A total of 384 tracks have more than 1 billion streams, indicating their high popularity globally.
-**Licensed Tracks**: 12321 Tracks were licensed enabled.
-**Duration**: The shortest track is Steven Universe Future with a duration of 0.5 minutes, while the longest is Highest rated Gabru 52 Non Stop Hits with 78 minutes.
+**Total Rows**: The dataset contains a total of 20592 rows.  
+**Unique Artists**: There are 2074 distinct artists represented in the dataset.  
+**Albums**: The dataset includes 11853 unique albums with different album types such as singles, compilations, and albums.  
+**Channels**: Tracks are associated with unique platforms such as Youtube and Spotify.  
+**Track Popularity**: A total of 384 tracks have more than 1 billion streams, indicating their high popularity globally.  
+**Licensed Tracks**: 12321 Tracks were licensed enabled.  
+**Duration**: The shortest track is Steven Universe Future with a duration of 0.5 minutes, while the longest is Highest rated Gabru 52 Non Stop Hits with 78 minutes.  
+**Number of Track by each artist**: The maximum number of tracks by each is 10
+**Energy-To-Liveness**: There are a total of 17108 track where Energy-To-Liveness ratio is greater 1.2.
+**Streamed on Spotify**: A total of 155 tracks streamed more on Spotify than Youtube.
 
 ## How to Use
 
